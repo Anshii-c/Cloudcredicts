@@ -1,1 +1,28 @@
+# Fraud Detection Using Machine Learning
+
+This project implements a pipeline to detect fraudulent financial transactions using both supervised classification techniques and unsupervised anomaly detection methods. It leverages Random Forests, Autoencoders, and PCA for feature analysis and visualization.
+
+## Project Overview
+
+- Detect fraudulent transactions in credit card data.
+- Handle imbalanced datasets with appropriate metrics.
+- Visualize transaction patterns and model predictions.
+- Deployable via Flask or integrated with GUI frameworks like Tkinter.
+
+
+##  Dataset
+- **Source**: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Description**: Contains anonymized features (`V1`–`V28`) generated using PCA, along with `Amount`, `Time`, and `Class` (target variable).
+Dataset link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+## Techniques Used
+
+- Data scaling and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature selection & engineering
+- PCA for visualization
+- Classification via Random Forest
+- Unsupervised anomaly detection via Autoencoder
+- Model evaluation using confusion matrix, precision, recall, F1-score
+
 
