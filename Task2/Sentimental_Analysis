@@ -1,2 +1,9 @@
-Sentiment Analysis—also called opinion mining—is the process of identifying and classifying emotions, attitudes, and opinions expressed in text. It typically sorts them into categories like positive, negative, or neutral.
-This technique is a cornerstone of Natural Language Processing, and it’s used across industries—from analyzing customer feedback to tracking public opinion on social media.
+Sentiment Analysis Project
+
+Overview
+This project performs sentiment analysis on textual data using natural language processing (NLP) techniques. It classifies input text into categories such as positive, negative, or neutral, and provides insights into emotional tone and opinion polarity.
+Objectives
+Clean and preprocess raw text data
+Extract meaningful features using NLP techniques
+Train and evaluate machine learning models for sentiment classification
+Visualize sentiment trends and model performance
