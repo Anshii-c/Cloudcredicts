@@ -1,1 +1,9 @@
+Fraud Detection 
+This project aims to detect fraudulent transactions using machine learning techniques. It leverages statistical features and behavioral patterns to classify transactions as fraudulent or legitimate, helping reduce financial risk and improve security.
+Objectives
+Understand and preprocess transactional data
+Engineer features that capture fraud signals
+Train and evaluate classification models
+Optimize performance for imbalanced datasets
+Provide actionable insights for fraud prevention
 
